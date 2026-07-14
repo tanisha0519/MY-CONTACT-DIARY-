@@ -22,7 +22,6 @@ while True:
     elif choice =="3":
         name=input("Enter name to edit:")
         if name in contacts:
-            phone=input("Enter the edited number: ")
             contacts[name]=phone
             print("Contact editted successfully!")
         else:
