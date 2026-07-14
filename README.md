@@ -1,0 +1,1 @@
+# MY-CONTACT-DIARY-
